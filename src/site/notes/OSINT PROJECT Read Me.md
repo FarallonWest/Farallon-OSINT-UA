@@ -5,6 +5,9 @@
 
 Hello. Glad you could make it.
 
+If you want to skip the explainer and jump right to it you can start here: Index of Notes: https://osint-project.netlify.app/notes/_Index_of_Russia-Belarus
+Index of Maps: https://osint-project.netlify.app/notes/Maps/_Index_of_Maps
+
 On February 24, 2022, Russia invaded the sovereign nation of Ukraine giving any number of crazy excuses for their invasion, brutality, rape, looting, cultural genocide and indiscriminate slaughter of civilians and children.
 
 Due to this, the OSINT (Open Source Intelligence) Community has banded together, combining specialties and tools in support of Ukraine. Sometimes, it takes a village.
@@ -26,7 +29,7 @@ We do not focus on military losses or troop movements. The information we seek w
 
 **How to Use this Vault**
 
-This vault was created with Obsidian, a free and expandable open source markdown project. It has been Published through Markbase for Obsidian, which has allowed us to post these bits of data for you to enjoy without the hassles of coding or self hosting.
+This vault was created with Obsidian, a free and expandable open source markdown project. It has been Published through Digital Garden for Obsidian, which has allowed us to post these bits of data for you to enjoy without the hassles of coding or self hosting. As such, expect things to improve over time.
 
 Obsidian is a rich community of enthusiasts and this project has been enhanced on the shoulders of several plug-ins most notably:
 
@@ -74,3 +77,9 @@ Obsidian is an excellent markdown tool and can do many things. This use is not r
 - Add Aviary for video and images
 - Open Calais
 - Open Sherlock
+
+**Explore the Data**
+
+Start here 
+Index of Notes: https://osint-project.netlify.app/notes/_Index_of_Russia-Belarus
+Index of Maps: https://osint-project.netlify.app/notes/Maps/_Index_of_Maps
