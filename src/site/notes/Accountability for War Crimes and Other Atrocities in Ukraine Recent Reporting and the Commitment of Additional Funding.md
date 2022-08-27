@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"aliases":["Accountability for War Crimes and Other Atrocities in Ukraine: Recent Reporting and the Commitment of Additional Funding"],"locations":null,"tag":null,"date":"2022.08.25","title":"Accountability for War Crimes and Other Atrocities in Ukraine: Recent Reporting and the Commitment of Additional Funding","linter-yaml-title-alias":"Accountability for War Crimes and Other Atrocities in Ukraine: Recent Reporting and the Commitment of Additional Funding","permalink":"/accountability-for-war-crimes-and-other-atrocities-in-ukraine-recent-reporting-and-the-commitment-of-additional-funding/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-home":false,"dg-publish":true,"aliases":["Accountability for War Crimes and Other Atrocities in Ukraine: Recent Reporting and the Commitment of Additional Funding"],"locations":null,"tag":null,"date":"2022-08-25","title":"Accountability for War Crimes and Other Atrocities in Ukraine: Recent Reporting and the Commitment of Additional Funding","linter-yaml-title-alias":"Accountability for War Crimes and Other Atrocities in Ukraine: Recent Reporting and the Commitment of Additional Funding","permalink":"/accountability-for-war-crimes-and-other-atrocities-in-ukraine-recent-reporting-and-the-commitment-of-additional-funding/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
