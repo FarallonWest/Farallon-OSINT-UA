@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"aliases":null,"locations":"Melitopol, Ukraine","tag":null,"date":"2022.03.12","title":"Mayor of Melitopol Ivan Fedorov abducted after refusing to collaborate with the Russian invaders","location":[46.8467267,35.3827281],"permalink":"/mayor-of-melitopol-ivan-fedorov-abducted-after-refusing-to-collaborate-with-the-russian-invaders/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-home":false,"dg-publish":true,"aliases":null,"locations":"Melitopol, Ukraine","tag":null,"date":"2022-03-12","title":"Mayor of Melitopol Ivan Fedorov abducted after refusing to collaborate with the Russian invaders","location":[46.8467267,35.3827281],"permalink":"/mayor-of-melitopol-ivan-fedorov-abducted-after-refusing-to-collaborate-with-the-russian-invaders/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
         
