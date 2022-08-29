@@ -1,19 +1,25 @@
-build:
-    command: npm install && npm run build
-    commandOrigin: config
-    environment:
+[build]
+  publish = "dist"
+  command = "npm install && npm run build"
+  commandOrigin = "config"
+  environment =
       - NETLIFY_GRAPH_TOKEN
       - ONEGRAPH_AUTHLIFY_TOKEN
-  publish: /opt/build/repo/dist
-  publishOrigin: config
-  plugins:
-    - inputs: {}
-      origin: ui
-      package: netlify-plugin-debug-cache
-    - inputs: {}
-      origin: ui
-      package: netlify-plugin-is-website-vulnerable
-      redirects:
-        - from: /*
-        - to: /404
-        status: 404
+  publish = "/opt/build/repo/dist"
+  publishOrigin = "config"
+  [plugins]
+    - inputs = "{}"
+      origin = "ui"
+      package = "netlify-plugin-debug-cache"
+    - inputs = "{}"
+      origin = "ui"
+      package = "netlify-plugin-is-website-vulnerable"     
+ 
+
+[[redirects]]
+  from = "/*"
+  to = "/404"
+  status = 404
+
+    
+  
