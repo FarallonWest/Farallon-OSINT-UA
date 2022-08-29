@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"aliases":["Similar articles"],"locations":null,"tag":null,"date":"2022.05.12","title":"Similar articles","linter-yaml-title-alias":"Similar articles","permalink":"/russia-sends-relatives-of-ukrainian-soldiers-and-other-mariupol-residents-to-concentration-camp-in-occupied-donbas/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-home":false,"dg-publish":true,"aliases":["Similar articles"],"locations":null,"tag":null,"date":"2022-05-12","title":"Similar articles","linter-yaml-title-alias":"Similar articles","permalink":"/russia-sends-relatives-of-ukrainian-soldiers-and-other-mariupol-residents-to-concentration-camp-in-occupied-donbas/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
