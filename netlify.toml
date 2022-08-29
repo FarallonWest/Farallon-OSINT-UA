@@ -3,8 +3,8 @@
   command = "npm install && npm run build"
   commandOrigin = "config"
   environment =
-      "- NETLIFY_GRAPH_TOKEN"
-      "- ONEGRAPH_AUTHLIFY_TOKEN"
+      "NETLIFY_GRAPH_TOKEN"
+      "ONEGRAPH_AUTHLIFY_TOKEN"
   publish = "/opt/build/repo/dist"
   publishOrigin = "config"
   [plugins]
