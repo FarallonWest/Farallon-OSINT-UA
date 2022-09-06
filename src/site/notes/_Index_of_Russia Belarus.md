@@ -199,6 +199,7 @@
  [[Remotely locked John Deere Farm Equipment|Remotely locked John Deere Farm Equipment]]
  [[revolutionaries|revolutionaries]]
  [[RKK Energia - Korolev Rocket and Space Corporation Energia|RKK Energia - Korolev Rocket and Space Corporation Energia]]
+ [[Roadmap|Roadmap]]
  [[roads|roads]]
  [[Rogvardia - National Guard Building|Rogvardia - National Guard Building]]
  [[Rosatom (Nuclear) Institute of Digital Technologies|Rosatom (Nuclear) Institute of Digital Technologies]]
