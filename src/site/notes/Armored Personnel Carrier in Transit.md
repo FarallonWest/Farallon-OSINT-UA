@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"aliases":"personnel carrier, personnel carriers, APC","location":null,"title":"Armored Personnel Carrier in Transit","tag":"Fire, Military, Ammunition Depot","date":"2022-06-10","locations":"Rostov, Kazachy Camps, Cossack, Rostov region, near the village of Cossack camps","permalink":"/armored-personnel-carrier-in-transit/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-home":false,"dg-publish":true,"aliases":"personnel carrier, personnel carriers, APC","location":null,"title":"Armored Personnel Carrier in Transit","tag":"Fire, Military, Ammunition Depot","date":"2022-06-10","locations":"Rostov, Kazachy Camps, Cossack, Rostov region, near the village of Cossack camps, Cossack camps","permalink":"/armored-personnel-carrier-in-transit/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
