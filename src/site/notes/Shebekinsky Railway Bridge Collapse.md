@@ -9,7 +9,7 @@
 Mechanical  
 Railway,Infrastructure  
 https://libcom.org/article/rail-war-russia-ukraine-borderland-facts-and-its-checking  
-governor of the Belgorod region reported about the explosion damaged the railway bridge in the Shebekinsky urban district near occupied Volchansk. These paths were used for [[passengers|passenger]] traffic, were not guarded, and there were no victims or injured. After four days, the damage was repaired  
+governor of the [[Maps/Belgorod Oblast, Central Federal District, Russia|Belgorod region]] reported about the explosion damaged the railway bridge in the Shebekinsky urban district near occupied Volchansk. These paths were used for [[passengers|passenger]] traffic, were not guarded, and there were no victims or injured. After four days, the damage was repaired  
 Shebekinsky, Bolgorod
 
 ~+~  
