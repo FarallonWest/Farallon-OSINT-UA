@@ -3,6 +3,6 @@
 ---
 
 
-Ukrainian journalist Oleh Baturin feared abducted by Russian invaders in Kherson oblast
+Ukrainian journalist Oleh Baturin feared abducted by Russian invaders in [[Maps/Kherson Oblast, Ukraine|Kherson oblast]]
 
 https://khpg.org/en/1608810185
