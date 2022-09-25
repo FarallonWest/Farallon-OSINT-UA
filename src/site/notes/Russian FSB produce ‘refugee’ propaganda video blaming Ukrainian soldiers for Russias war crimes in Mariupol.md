@@ -3,6 +3,6 @@
 ---
 
 
-Russian FSB produce ‘refugee’ propaganda video blaming Ukrainian soldiers for Russia"s war crimes in Mariupol
+Russian FSB produce ‘refugee’ propaganda video blaming Ukrainian soldiers for Russia"s [[war crimes|war crimes]] in Mariupol
 
 https://khpg.org/en/1608810325
