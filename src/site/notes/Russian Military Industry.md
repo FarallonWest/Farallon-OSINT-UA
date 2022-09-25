@@ -39,7 +39,7 @@ According to researchers from the American Robert Lansing Institute, Russia's 20
 
 Even the 9M727 cruise missiles launched from the Iskander-K complex use six of the seven connections that provide data transmission via the heat shield of the US-made missile control system, according to a study by the Royal United Services Institute (RUSI). "Russia's advanced weapons and communications systems are based on Western chips," said Damien Splitters, a specialist at Conflict Armament Research, a non-governmental organization that identifies and tracks weapons and ammunition.
 
-After 24 February 2022, the sanctions became even more strict. This even helped to stop the only tank plant in Russia . The Russian manufacturer of anti-[[aircraft|aircraft]] missile systems Ulyanovsk Mechanical Plant also suspended its work.
+After 24 February 2022, the sanctions became even more strict. This even helped to stop the only tank plant in Russia . The Russian manufacturer of anti-[[aircraft|aircraft]] missile systems [[Maps/Ulyanovsk, городской округ Ульяновск, Ulyanovsk Oblast, Volga Federal District, Russia|Ulyanovsk]] Mechanical Plant also suspended its work.
 
 Concern VKO Almaz-Antey on the basis of production activity in 2017 for the first time entered the top ten of the world's largest manufacturers of military products, taking eighth place in the Top-100 ranking of the American specialized weekly Defense News in August 2018. Almaz-Antey, engaged in the development and production of antiaircraft and anti-missile defense, has risen in the ranking by three positions at once: from 11th to eighth place. According to the weekly, the company's revenues in 2017 amounted to $ 9.1 billion, an increase of 39% compared to 2016.
 
