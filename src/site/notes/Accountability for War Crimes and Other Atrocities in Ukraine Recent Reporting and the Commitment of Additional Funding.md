@@ -3,10 +3,10 @@
 ---
 
 
-Accountability for War Crimes and Other Atrocities in Ukraine: Recent Reporting and the Commitment of Additional Funding  
-The U.S. Department of State-supported Conflict Observatory program released a report today that includes evidence of Russia-perpetrated filtration operations in, and forced deportations from, Ukraine. The unlawful transfer and deportation of protected persons is a grave breach of the Fourth Geneva Convention on the protection of civilians and constitutes a war crime. We again call on Russia to immediately halt its filtration operations and forced deportations and to provide outside independent observers access to identified facilities and forced deportation relocation areas within Russia-controlled areas of Ukraine and inside Russia itself.
+Accountability for [[war crimes|War Crimes]] and Other [[war crimes|Atrocities]] in Ukraine: Recent Reporting and the Commitment of Additional Funding  
+The U.S. Department of State-supported Conflict Observatory program released a report today that includes evidence of Russia-perpetrated [[Camps|filtration]] operations in, and forced deportations from, Ukraine. The unlawful transfer and deportation of protected persons is a grave breach of the Fourth Geneva Convention on the protection of civilians and constitutes a [[war crimes|war crime]]. We again call on Russia to immediately halt its [[Camps|filtration]] operations and forced deportations and to provide outside independent observers access to identified facilities and [[Camps|forced deportation]] [[Camps|relocation]] areas within Russia-controlled areas of Ukraine and inside Russia itself.
 
-This latest report, prepared by the Yale Humanitarian Research Lab, is available in its entirety at the program’s website . The report documents 21 sites in the Donetsk oblast alone associated with filtration operations. This adds to the growing body of credible reporting and evidence on filtration operations that should deeply concern us all. It is consistent with other public reporting from a variety of sources.
+This latest report, prepared by the Yale Humanitarian Research Lab, is available in its entirety at the program’s website . The report documents 21 sites in the Donetsk oblast alone associated with [[Camps|filtration]] operations. This adds to the growing body of credible reporting and evidence on [[Camps|filtration]] operations that should deeply concern us all. It is consistent with other public reporting from a variety of sources.
 
 Other Conflict Observatory reports detail instances of damage to healthcare and educational facilities in Ukraine’s Russian-held Luhansk oblast resulting from Russia’s war. A recent report from Observatory partner Smithsonian Cultural Rescue Initiative identifies over 450 potential impacts to cultural heritage sites across Ukraine from February to June 2022, including archaeological sites, museums, and places of worship. Taken together, these and other reliable reporting chronicle several aspects of the carnage unleashed by President Putin’s brutal invasion of Ukraine.
 
@@ -18,7 +18,7 @@ https://www.state.gov/accountability-for-war-crimes-and-other-atrocities-in-ukra
 
                                                         
 
-# Accountability for War Crimes and Other Atrocities in Ukraine: Recent Reporting and the Commitment of Additional Funding
+# Accountability for [[war crimes|War Crimes]] and Other [[war crimes|Atrocities]] in Ukraine: Recent Reporting and the Commitment of Additional Funding
 
 Media Note
 
@@ -26,9 +26,9 @@ Media Note
 
 August 25, 2022
 
-The U.S. Department of State-supported Conflict Observatory program released a report today that includes evidence of Russia-perpetrated filtration operations in, and forced deportations from, Ukraine. The unlawful transfer and deportation of protected persons is a grave breach of the Fourth Geneva Convention on the protection of civilians and constitutes a war crime. We again call on Russia to immediately halt its filtration operations and forced deportations and to provide outside independent observers access to identified facilities and forced deportation relocation areas within Russia-controlled areas of Ukraine and inside Russia itself.
+The U.S. Department of State-supported Conflict Observatory program released a report today that includes evidence of Russia-perpetrated [[Camps|filtration]] operations in, and forced deportations from, Ukraine. The unlawful transfer and deportation of protected persons is a grave breach of the Fourth Geneva Convention on the protection of civilians and constitutes a [[war crimes|war crime]]. We again call on Russia to immediately halt its [[Camps|filtration]] operations and forced deportations and to provide outside independent observers access to identified facilities and [[Camps|forced deportation]] [[Camps|relocation]] areas within Russia-controlled areas of Ukraine and inside Russia itself.
 
-This latest report, prepared by the Yale Humanitarian Research Lab, is available in its entirety at the program’s [website](https://hub.conflictobservatory.org/portal/apps/sites/#/home/) . The report documents 21 sites in the Donetsk oblast alone associated with filtration operations. This adds to the growing body of credible reporting and evidence on filtration operations that should deeply concern us all. It is consistent with other public reporting from a variety of sources.
+This latest report, prepared by the Yale Humanitarian Research Lab, is available in its entirety at the program’s [website](https://hub.conflictobservatory.org/portal/apps/sites/#/home/) . The report documents 21 sites in the Donetsk oblast alone associated with [[Camps|filtration]] operations. This adds to the growing body of credible reporting and evidence on [[Camps|filtration]] operations that should deeply concern us all. It is consistent with other public reporting from a variety of sources.
 
 Other Conflict Observatory reports detail instances of damage to healthcare and educational facilities in Ukraine’s Russian-held Luhansk oblast resulting from Russia’s war. A recent report from Observatory partner Smithsonian Cultural Rescue Initiative identifies over 450 potential impacts to cultural heritage sites across Ukraine from February to June 2022, including archaeological sites, museums, and places of worship. Taken together, these and other reliable reporting chronicle several aspects of the carnage unleashed by President Putin’s brutal invasion of Ukraine.
 
