@@ -357,14 +357,14 @@ May be faulty wiring, but the area has had significant partisan chatter and acti
 ~+~  
 69
 
-# Belgorod Railway Station [[fire|fire]]
+# [[Maps/Belgorod, Belgorodsky District, Belgorod Oblast, Central Federal District, Russia|Belgorod]] Railway Station [[fire|fire]]
 
 2022-05-14  
 [[fire|fire]]  
 Railway,Infrastructure  
 https://twitter.com/lilygrutcher/status/1525518245150826496  
-Maybe? Dubovoye, Belgorod Oblast  
-Belgorod Oblast  
+Maybe? Dubovoye, [[Maps/Belgorod Oblast, Central Federal District, Russia|Belgorod Oblast]]  
+[[Maps/Belgorod Oblast, Central Federal District, Russia|Belgorod Oblast]]  
 50.593006, 36.602231
 
 ~+~  
@@ -430,7 +430,7 @@ Novodanilovskaya embankment, [[Maps/Moscow, Central Federal District, Russia|Mos
 [[fire|fire]]  
 Chemical  
 https://thenewsglory.com/the-ministry-of-emergency-situations-spoke-about-the-fire-in-the-lacquer-production-shop-near-belgorod/  
-In the city of Stroitel, Belgorod Region, a lacquer production shop caught [[fire|fire]]. This was announced on Monday, May 16, in the regional Ministry of Emergency Situations. It is noted that a message about a [[fire|fire]] on 3rd Zavodskaya Street in the Yakovlevsky city district was received at 1:36 a.m., the [[fire|fire]] broke out in an unused varnish production workshop. On Monday night, the BelPlus Telegram channel published footage showing pillars of black smoke from a brick factory in the town of Stroitel, Belgorod Region. Local residents reported a [[fire|burning]] smell in the area.  
+In the city of Stroitel, [[Maps/Belgorod Oblast, Central Federal District, Russia|Belgorod Region]], a lacquer production shop caught [[fire|fire]]. This was announced on Monday, May 16, in the regional Ministry of Emergency Situations. It is noted that a message about a [[fire|fire]] on 3rd Zavodskaya Street in the Yakovlevsky city district was received at 1:36 a.m., the [[fire|fire]] broke out in an unused varnish production workshop. On Monday night, the BelPlus Telegram channel published footage showing pillars of black smoke from a brick factory in the town of Stroitel, [[Maps/Belgorod Oblast, Central Federal District, Russia|Belgorod Region]]. Local residents reported a [[fire|burning]] smell in the area.  
 3rd Zavodskaya Street, Yakovlevsky, Belgorod
 
 This may not be partisan activity, but it was shared on direct action channels which lends itself to potentially being an act of defiance.
@@ -618,7 +618,7 @@ Other
 https://a2day.org/obrashhenie-administraczii-prometeya/  
 However, we must point out that in a war where the Russian state is killing people in Ukraine, graffiti and leaflets are hardly a sufficient means to stop the killing. A word will not stop a bullet. If you really want to make a difference, you should look for other ways to fight dictatorship and war. Some of these measures are already relatively widespread and popular in Russia–for example, there are regular reports of incendiary attacks on military recruitment centers or acts of sabotage on railroad tracks that can disrupt the Russian army’s infrastructure and supply logistics. We would like to call on all sincere people not to limit themselves to expressing their discontent with the war and the dictatorship, whether on the Internet or in the streets. Words without actions are empty, and the dictatorship has reached the point where it is now or never to act.
 
-prometeya is an [[activism|anarchist]]/community direct action group - The admins of Prometeya have been part of the [[activism|anarchist]] movement for many years and over the years we have directly participated in [[activism|anarchist]] activities, taking part in actions with varying degrees of radicalism and putting ourselves at risk. We have been persecuted and tortured, suffered many deprivations and had to leave the country because of our activities. In Russia, we face severe punishment and torture, and we live with the reality that this will happen to us if we are getting deported. “Narodnaya Samooborona” (People’s Self-Defense), our movement, was destroyed due to repression and has suspended its activities for several years now. To a large extent, this also applies to Prometeya–it has practically stopped working as a media source. Nevertheless, the [[activism|activists]] of the former People’s Self-Defense and the admins of Prometeya are still active. Some are fighting against the Russian army in Ukraine, putting themselves in great danger. Others are organizing fundraising events for [[activism|anarchists]] who are fighting in Ukraine. We will not stay inactive.
+prometeya is an [[activism|anarchist]]/community direct action group - The admins of Prometeya have been part of the [[activism|anarchist]] movement for many years and over the years we have directly participated in [[activism|anarchist]] activities, taking part in actions with varying degrees of radicalism and putting ourselves at risk. We have been persecuted and [[war crimes|tortured]], suffered many deprivations and had to leave the country because of our activities. In Russia, we face severe punishment and [[war crimes|torture]], and we live with the reality that this will happen to us if we are getting deported. “Narodnaya Samooborona” (People’s Self-Defense), our movement, was destroyed due to repression and has suspended its activities for several years now. To a large extent, this also applies to Prometeya–it has practically stopped working as a media source. Nevertheless, the [[activism|activists]] of the former People’s Self-Defense and the admins of Prometeya are still active. Some are fighting against the Russian army in Ukraine, putting themselves in great danger. Others are organizing fundraising events for [[activism|anarchists]] who are fighting in Ukraine. We will not stay inactive.
 
 ~+~  
 46
@@ -909,7 +909,7 @@ Residents of [[Maps/Nizhnevartovsk, городской округ Нижнева
 Molotov  
 Recruitment  
 https://news.bigmir.net/world/6330781-v-belgorode-i-permi-podozhgli-voenkomaty  
-In Belgorod, a [[fire|fire]] broke out on the first floor. An unidentified person broke a window of the building on the first floor and threw two Molotov cocktails into room 106. It is reported that a desk went up in flames. See also https://theins.ru/en/news/252560  
+In [[Maps/Belgorod, Belgorodsky District, Belgorod Oblast, Central Federal District, Russia|Belgorod]], a [[fire|fire]] broke out on the first floor. An unidentified person broke a window of the building on the first floor and threw two Molotov cocktails into room 106. It is reported that a desk went up in flames. See also https://theins.ru/en/news/252560  
 Belgorod
 
 Also see https://www.newsweek.com/russia-dissent-putin-ukraine-war-man-molotov-cocktail-fsb-government-building-fire-1720900
@@ -937,8 +937,8 @@ Also see https://enoughisenough14.org/2022/06/26/shortly-after-the-longest-night
 Mechanical  
 Railway,Infrastructure  
 https://libcom.org/article/rail-war-belarusians-face-death-penalty-blocked-trans-sib-anarchists-work-around-moscow  
-Lunevo-Porkhov stretch in the Pskov region, where 13 wagons reportedly carrying explosives were derailed on June 24 (the brake did not work at the right time)  
-Lunevo-Porkhov Rail, Pskov region
+Lunevo-Porkhov stretch in the [[Maps/Pskov Oblast, Northwestern Federal District, Russia|Pskov region]], where 13 wagons reportedly carrying explosives were derailed on June 24 (the brake did not work at the right time)  
+Lunevo-Porkhov Rail, [[Maps/Pskov Oblast, Northwestern Federal District, Russia|Pskov region]]
 
 ~+~  
 189
@@ -1553,8 +1553,8 @@ May be faulty wiring, but the area has had significant partisan chatter and acti
 Fire  
 Railway,Infrastructure  
 https://twitter.com/lilygrutcher/status/1525518245150826496  
-Maybe? Dubovoye, Belgorod Oblast  
-Belgorod Oblast  
+Maybe? Dubovoye, [[Maps/Belgorod Oblast, Central Federal District, Russia|Belgorod Oblast]]  
+[[Maps/Belgorod Oblast, Central Federal District, Russia|Belgorod Oblast]]  
 50.593006, 36.602231
 
 ~+~  
@@ -1620,7 +1620,7 @@ Novodanilovskaya embankment, [[Maps/Moscow, Central Federal District, Russia|Mos
 Fire  
 Chemical  
 https://thenewsglory.com/the-ministry-of-emergency-situations-spoke-about-the-fire-in-the-lacquer-production-shop-near-belgorod/  
-In the city of Stroitel, Belgorod Region, a lacquer production shop caught fire. This was announced on Monday, May 16, in the regional Ministry of Emergency Situations. It is noted that a message about a fire on 3rd Zavodskaya Street in the Yakovlevsky city district was received at 1:36 a.m., the fire broke out in an unused varnish production workshop. On Monday night, the BelPlus Telegram channel published footage showing pillars of black smoke from a brick factory in the town of Stroitel, Belgorod Region. Local residents reported a burning smell in the area.  
+In the city of Stroitel, [[Maps/Belgorod Oblast, Central Federal District, Russia|Belgorod Region]], a lacquer production shop caught fire. This was announced on Monday, May 16, in the regional Ministry of Emergency Situations. It is noted that a message about a fire on 3rd Zavodskaya Street in the Yakovlevsky city district was received at 1:36 a.m., the fire broke out in an unused varnish production workshop. On Monday night, the BelPlus Telegram channel published footage showing pillars of black smoke from a brick factory in the town of Stroitel, [[Maps/Belgorod Oblast, Central Federal District, Russia|Belgorod Region]]. Local residents reported a burning smell in the area.  
 3rd Zavodskaya Street, Yakovlevsky, Belgorod
 
 This may not be partisan activity, but it was shared on direct action channels which lends itself to potentially being an act of defiance.
@@ -1808,7 +1808,7 @@ Other
 https://a2day.org/obrashhenie-administraczii-prometeya/  
 However, we must point out that in a war where the Russian state is killing people in Ukraine, graffiti and leaflets are hardly a sufficient means to stop the killing. A word will not stop a bullet. If you really want to make a difference, you should look for other ways to fight dictatorship and war. Some of these measures are already relatively widespread and popular in Russia–for example, there are regular reports of incendiary attacks on military recruitment centers or acts of sabotage on railroad tracks that can disrupt the Russian army’s infrastructure and supply logistics. We would like to call on all sincere people not to limit themselves to expressing their discontent with the war and the dictatorship, whether on the Internet or in the streets. Words without actions are empty, and the dictatorship has reached the point where it is now or never to act.
 
-prometeya is an [[activism|anarchist]]/community direct action group - The admins of Prometeya have been part of the [[activism|anarchist]] movement for many years and over the years we have directly participated in [[activism|anarchist]] activities, taking part in actions with varying degrees of radicalism and putting ourselves at risk. We have been persecuted and tortured, suffered many deprivations and had to leave the country because of our activities. In Russia, we face severe punishment and torture, and we live with the reality that this will happen to us if we are getting deported. “Narodnaya Samooborona” (People’s Self-Defense), our movement, was destroyed due to repression and has suspended its activities for several years now. To a large extent, this also applies to Prometeya–it has practically stopped working as a media source. Nevertheless, the [[activism|activists]] of the former People’s Self-Defense and the admins of Prometeya are still active. Some are fighting against the Russian army in Ukraine, putting themselves in great danger. Others are organizing fundraising events for [[activism|anarchists]] who are fighting in Ukraine. We will not stay inactive.
+prometeya is an [[activism|anarchist]]/community direct action group - The admins of Prometeya have been part of the [[activism|anarchist]] movement for many years and over the years we have directly participated in [[activism|anarchist]] activities, taking part in actions with varying degrees of radicalism and putting ourselves at risk. We have been persecuted and [[war crimes|tortured]], suffered many deprivations and had to leave the country because of our activities. In Russia, we face severe punishment and [[war crimes|torture]], and we live with the reality that this will happen to us if we are getting deported. “Narodnaya Samooborona” (People’s Self-Defense), our movement, was destroyed due to repression and has suspended its activities for several years now. To a large extent, this also applies to Prometeya–it has practically stopped working as a media source. Nevertheless, the [[activism|activists]] of the former People’s Self-Defense and the admins of Prometeya are still active. Some are fighting against the Russian army in Ukraine, putting themselves in great danger. Others are organizing fundraising events for [[activism|anarchists]] who are fighting in Ukraine. We will not stay inactive.
 
 ~+~  
 46
@@ -2093,13 +2093,13 @@ Residents of [[Maps/Nizhnevartovsk, городской округ Нижнева
 ~+~  
 88
 
-# Belgorod Recruitment Office
+# [[Maps/Belgorod, Belgorodsky District, Belgorod Oblast, Central Federal District, Russia|Belgorod]] Recruitment Office
 
 2022-06-24  
 Molotov  
 Recruitment  
 https://news.bigmir.net/world/6330781-v-belgorode-i-permi-podozhgli-voenkomaty  
-In Belgorod, a fire broke out on the first floor. An unidentified person broke a window of the building on the first floor and threw two Molotov cocktails into room 106. It is reported that a desk went up in flames. See also https://theins.ru/en/news/252560  
+In [[Maps/Belgorod, Belgorodsky District, Belgorod Oblast, Central Federal District, Russia|Belgorod]], a fire broke out on the first floor. An unidentified person broke a window of the building on the first floor and threw two Molotov cocktails into room 106. It is reported that a desk went up in flames. See also https://theins.ru/en/news/252560  
 Belgorod
 
 Also see https://www.newsweek.com/russia-dissent-putin-ukraine-war-man-molotov-cocktail-fsb-government-building-fire-1720900
@@ -2127,8 +2127,8 @@ Also see https://enoughisenough14.org/2022/06/26/shortly-after-the-longest-night
 Mechanical  
 Railway,Infrastructure  
 https://libcom.org/article/rail-war-belarusians-face-death-penalty-blocked-trans-sib-anarchists-work-around-moscow  
-Lunevo-Porkhov stretch in the Pskov region, where 13 wagons reportedly carrying explosives were derailed on June 24 (the brake did not work at the right time)  
-Lunevo-Porkhov Rail, Pskov region
+Lunevo-Porkhov stretch in the [[Maps/Pskov Oblast, Northwestern Federal District, Russia|Pskov region]], where 13 wagons reportedly carrying explosives were derailed on June 24 (the brake did not work at the right time)  
+Lunevo-Porkhov Rail, [[Maps/Pskov Oblast, Northwestern Federal District, Russia|Pskov region]]
 
 ~+~  
 189
