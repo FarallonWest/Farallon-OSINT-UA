@@ -1590,7 +1590,7 @@ Protasovo
 
   
 
-Pskov
+[[Maps/Pskov, Pskov Oblast, Northwestern Federal District, 180000, Russia|Pskov]]
 
 Leningrad
 
@@ -1602,7 +1602,7 @@ Leningrad
 
   
 
-Pskov - Polkavaya
+[[Maps/Pskov, Pskov Oblast, Northwestern Federal District, 180000, Russia|Pskov]] - Polkavaya
 
 Leningrad
 
@@ -2540,7 +2540,7 @@ A
 
 643
 
-Belgorod
+[[Maps/Belgorod, Belgorodsky District, Belgorod Oblast, Central Federal District, Russia|Belgorod]]
 
 RS96572
 
@@ -3080,7 +3080,7 @@ D
 
 11
 
-Pskov
+[[Maps/Pskov, Pskov Oblast, Northwestern Federal District, 180000, Russia|Pskov]]
 
 RS96570
 
