@@ -3,11 +3,11 @@
 ---
 
 
-Terror and abductions as Russia tries to break Ukrainian resistance in Kherson and other occupied cities
+Terror and abductions as Russia tries to break Ukrainian resistance in [[Maps/Kherson, Херсонська міська громада, Kherson Raion, Kherson Oblast, 73000-73480, Ukraine|Kherson]] and other occupied cities
 
 https://khpg.org/en/1608810189
 
-Terror and abductions as Russia tries to break Ukrainian resistance in Kherson and other occupied cities
+Terror and abductions as Russia tries to break Ukrainian resistance in [[Maps/Kherson, Херсонська міська громада, Kherson Raion, Kherson Oblast, 73000-73480, Ukraine|Kherson]] and other occupied cities
 
  
 
