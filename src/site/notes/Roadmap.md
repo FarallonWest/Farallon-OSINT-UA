@@ -1,5 +1,5 @@
 ---
-{"aliases":"project roadmap","locations":null,"tag":null,"date":null,"dg-home":false,"dg-publish":true,"dg-pass-frontmatter":true,"permalink":"/roadmap/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"aliases":"project roadmap","locations":null,"tag":null,"date":null,"dg-home":false,"dg-publish":true,"dg-pass-frontmatter":true,"title":"Roadmap","permalink":"/roadmap/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
