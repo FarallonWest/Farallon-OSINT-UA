@@ -3,11 +3,11 @@
 ---
 
 
-Russia plans total ‘filtration’ of Mariupol men and forced ‘mobilization’
+Russia plans total ‘[[Camps|filtration]]’ of Mariupol men and forced ‘mobilization’
 
 https://khpg.org/en/1608810425
 
-Russia plans total ‘filtration’ of Mariupol men and forced ‘mobilization’
+Russia plans total ‘[[Camps|filtration]]’ of Mariupol men and forced ‘mobilization’
 
  
 
