@@ -18,7 +18,7 @@ tag:
 date:
 title: detained
 ---
-> **detained** may refer to Detention (imprisonment)
+> **detained** may refer to [[Camps|Detention]] (imprisonment)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Detained)
 
