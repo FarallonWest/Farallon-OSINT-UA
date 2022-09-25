@@ -3,10 +3,10 @@
 ---
 
 
-Horrific conditions and torture in Russian filtration camp ‘ghetto’ for Mariupol residents
+Horrific conditions and [[war crimes|torture]] in Russian [[Camps|filtration camp]] ‘ghetto’ for Mariupol residents
 
 https://khpg.org/en/1608810538
 
-Horrific conditions and torture in Russian filtration camp ‘ghetto’ for Mariupol residents
+Horrific conditions and [[war crimes|torture]] in Russian [[Camps|filtration camp]] ‘ghetto’ for Mariupol residents
 
 https://khpg.org/en/1608810538
