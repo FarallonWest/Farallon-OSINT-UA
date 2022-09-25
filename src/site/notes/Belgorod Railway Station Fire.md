@@ -9,8 +9,8 @@
 [[fire|fire]]  
 Railway,Infrastructure  
 https://twitter.com/lilygrutcher/status/1525518245150826496  
-Maybe? Dubovoye, Belgorod Oblast  
-Belgorod Oblast  
+Maybe? Dubovoye, [[Maps/Belgorod Oblast, Central Federal District, Russia|Belgorod Oblast]]  
+[[Maps/Belgorod Oblast, Central Federal District, Russia|Belgorod Oblast]]  
 50.593006, 36.602231
 
 ~+~  
